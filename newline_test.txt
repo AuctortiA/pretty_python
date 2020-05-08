@@ -1,0 +1,9 @@
+# indentation
+def fix_indentation(_code):
+    """
+    Fixes indentation by converting each change in indentation in the code to pep8 standard of 4 spaces. Works out what
+    is a postive or negative indentation by comparing the indentation to the previous line (but ignoring blank lines
+    to preserve any separation the user has added).
+    :param _code: List containing each line of the input code.
+    :return: List containing each line of the resultant code (with correct indents)
+    """
