@@ -1,9 +1,11 @@
 # Pretty Python
 
 ## Overview
-I started this project after receiving a few assignments from my college involing skeleton code. The skeleton code provided was so badly formatted, I started writing some code to make it "pretty" (pep8 compliant). 
+I started this project after receiving a few assignments from my college involving some skeleton code. The skeleton code provided was quite badly formatted, and so I started writing some code to make it "pretty" (pep8 compliant). 
 
-This made is much easier to look at, and complete the assignments.
+This made it much easier to navigate, understand and complete the assignments.
+
+Currently, 3 features are implemented, but I plan to return to this project to allow the module to complete finer code optimisations, such as refactoring variable names and more.
 
 ## Running
 ### Dependencies
